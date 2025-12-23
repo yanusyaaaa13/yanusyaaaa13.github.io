@@ -1,0 +1,17 @@
+body {
+font-family: Arial, sans-serif;
+background-color: black;
+color: white;
+padding: 20 px;
+}
+h1 {
+color: red;
+}
+p {
+    color: white;
+}
+h3 {
+    color: 20705;
+}
+#name{background-color: white;}
+.greenbtn{color: white;}
